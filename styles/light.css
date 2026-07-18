@@ -14,7 +14,7 @@
   --heading-color: #FF0070;
 }
 
-.rec-label{
+.rec-label {
   display: none;
 }
 
@@ -28,3 +28,4 @@
   --text-color: #353430;
   --heading-color: #FF0070;
   }
+}
